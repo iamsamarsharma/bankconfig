@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+accounts:
+  message: "Welcome to Dev environment of accounts"
+  contactDetails:
+    name: "Akaya Sharma"
+    email: "akaya@samar.com"
+  onCallSupport:
+    - 9096301709
+    - 9817323563

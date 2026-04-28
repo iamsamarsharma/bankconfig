@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+accounts:
+  message: "Welcome to Prod environment of cards"
+  contactDetails:
+    name: "Amar Sharma"
+    email: "amar@samar.com"
+  onCallSupport:
+    - 9096301708
+    - 9817323562

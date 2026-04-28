@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+accounts:
+  message: "Welcome to QA environment of Cards"
+  contactDetails:
+    name: "Samar Sharma"
+    email: "samar@samar.com"
+  onCallSupport:
+    - 9096301707
+    - 9817323561
