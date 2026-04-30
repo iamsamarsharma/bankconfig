@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to Prod environment of accounts git update from repo"
   contactDetails:
     name: "Samar Sharma"
-    email: "amar@samar.com"
+    email: "Samar@samar.com"
   onCallSupport:
     - 9096301708
     - 9817323562
