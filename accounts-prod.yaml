@@ -4,7 +4,7 @@ build:
 accounts:
   message: "Welcome to Prod environment of accounts git"
   contactDetails:
-    name: "Amar Sharma"
+    name: "Samar Sharma"
     email: "amar@samar.com"
   onCallSupport:
     - 9096301708
