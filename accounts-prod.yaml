@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to Prod environment of accounts git update from repo"
+  message: "Welcome to Prod environment of accounts git update from repo for rabbit"
   contactDetails:
     name: "Samar Sharma"
     email: "Samar@samar.com"
